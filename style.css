@@ -1,0 +1,44 @@
+
+div {
+    border: 5px solid;
+    text-align: justify;
+    padding: 5px;
+    box-sizing: border-box;
+    padding-left: 12px;
+}
+.header {
+    border-color: #2ecc71;  
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 10px;
+    color: blue;
+}
+h1 {
+    text-align: left;
+}
+.container {
+    padding: 0;
+}
+.nav {
+    border-color: #e74c3c;
+    height: 800px;
+    width:200px;
+   float:left;
+   background-color: black;
+
+
+}
+.content {
+    border-color: #f1c40f;
+    height: 400px;
+    margin-left:200px;
+    
+}
+.links{
+    height:400px;
+    margin-left:200px;
+}
+
+.Manager {
+    padding-top: 
+    50px;
+ }
